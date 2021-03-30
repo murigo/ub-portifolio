@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+}
+.navbar.bg-light {
+    background-color: #fff !important;
+}
+.btn-color {
+    background-image: linear-gradient(to right, red , yellow);
+}
+.btn-border-color {
+    border: 1px solid red;
+}
+.btn-l {
+    margin-left: 5%;
+}
+.greeting-padding {
+    padding-top: 30%;
+}
+.vert-space {
+    margin-top: 5%;
+}
+.letter{
+    letter-spacing: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.introduce-style{
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #868694;
+    
+}
+.experience{
+    background-color:  #fef7f7;
+}
+.getupdate{
+    background-color: #7751ea;
+}
+.tiltle{
+    color: #fff !important;
+}
